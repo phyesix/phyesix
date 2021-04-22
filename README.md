@@ -1,8 +1,8 @@
 ### Hi there <a href="https://ibrahimnergiz.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-![ibrahimnergiz's github stats](https://github-readme-stats.vercel.app/api?username=ibrahimnergiz&show_icons=true&theme=radical)
+![phyesix's github stats](https://github-readme-stats.vercel.app/api?username=phyesix&show_icons=true&theme=radical)
 
-![views](https://komarev.com/ghpvc/?username=ibrahimnergiz)
+![views](https://komarev.com/ghpvc/?username=phyesix)
 
 My name is Ibrahim, I'm a Front-end / UI Developer who enjoys conceptualizing and development simple/clean interfaces.
 
