@@ -7,6 +7,8 @@ My name is Ibrahim, I'm a Front-end / UI Developer who enjoys conceptualizing an
 - 💻 Technical writer at [Medium](https://medium.com/@phyesix)
 - 🎮 I love playing and streaming it. You can follow on [Twitch](https://twitch.com/phyesix) or [YouTube](https://www.youtube.com/channel/UCOh4DEAiZ7dxz7NwrAKTZGg).
 
+![views](https://komarev.com/ghpvc/?username=phyesix)
+
 ### What I speak...
 
 <p>
@@ -49,5 +51,3 @@ My name is Ibrahim, I'm a Front-end / UI Developer who enjoys conceptualizing an
 <a href="mailto:contact@ibrahimnergiz.com">
   <img alt="mail me" width="35px" src="https://user-images.githubusercontent.com/57311842/109585261-06b49080-7ab8-11eb-95ef-5bf9d050c753.png" />
 </a>
-
-![views](https://komarev.com/ghpvc/?username=phyesix)
