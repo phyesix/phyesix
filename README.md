@@ -1,7 +1,5 @@
 ### Hi there <a href="https://ibrahimnergiz.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-![views](https://komarev.com/ghpvc/?username=phyesix)
-
 My name is Ibrahim, I'm a Front-end / UI Developer who enjoys conceptualizing and development simple/clean interfaces.
 
 - 💬 Ask me about anything related to CSS/Javascript
@@ -51,3 +49,5 @@ My name is Ibrahim, I'm a Front-end / UI Developer who enjoys conceptualizing an
 <a href="mailto:contact@ibrahimnergiz.com">
   <img alt="mail me" width="35px" src="https://user-images.githubusercontent.com/57311842/109585261-06b49080-7ab8-11eb-95ef-5bf9d050c753.png" />
 </a>
+
+![views](https://komarev.com/ghpvc/?username=phyesix)
