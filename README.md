@@ -5,7 +5,7 @@ My name is Ibrahim, I'm a Front-end / UI Developer who enjoys conceptualizing an
 - 💬 Ask me about anything related to CSS/Javascript
 - 📫 How to reach me: [@phyesix](https://twitter.com/phyesix)
 - 💻 Technical writer at [Medium](https://medium.com/@phyesix)
-- 💻 I love recording and sharing something at my [YouTube Channel](https://www.youtube.com/user/PhyesiX)
+- 📽️ I love recording and sharing something at my [YouTube Channel](https://www.youtube.com/user/PhyesiX)
 - 🎮 I love playing and streaming it. You can follow on [Twitch](https://twitch.com/phyesix) or [YouTube](https://www.youtube.com/channel/UCOh4DEAiZ7dxz7NwrAKTZGg).
 
 ![views](https://komarev.com/ghpvc/?username=phyesix)
